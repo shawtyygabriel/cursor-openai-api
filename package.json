@@ -1,6 +1,6 @@
 {
   "name": "cursor-openai-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Standalone CLI that serves Cursor API as OpenAI-compatible",
   "type": "module",
   "bin": "./dist/cli.js",
